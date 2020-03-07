@@ -2,7 +2,7 @@
 
 UnitOfWork Pattern を用いての Transaction の抽象化
 
-[trewanek-repository-with-tx](https://github.com/trewanek/trewanek-repository-with-tx)
+[repository-with-tx](https://github.com/trewanek/repository-with-tx)
 
 との違いは、
 
